@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Weapons)">7736e5e0870b011013a20d46dabb3560</button>
+        <button_parent_table>x_804631_elden_r_0_eldenringdb</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>sys_id</field_name>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>source_field</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Sys ID</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>sys_id</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:35:06</sys_created_on>
+        <sys_id>7f36e5e0870b011013a20d46dabb3560</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys ID</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_7f36e5e0870b011013a20d46dabb3560</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:35:06</sys_updated_on>
+        <table_name>x_804631_elden_r_0_eldenringdb</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f36e5e0870b011013a20d46dabb3560"/>
+</record_update>
