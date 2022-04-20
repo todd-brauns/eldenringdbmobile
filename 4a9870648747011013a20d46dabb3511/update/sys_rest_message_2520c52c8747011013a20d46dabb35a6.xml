@@ -9,19 +9,19 @@
         <name>Elden Ring Open Source API Call (WPN)</name>
         <oauth2_profile/>
         <protocol_name/>
-        <rest_endpoint>https://eldenring.fanapis.com/api/weapons</rest_endpoint>
+        <rest_endpoint>https://eldenring.fanapis.com/api/weapons?limit=500</rest_endpoint>
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-20 16:49:27</sys_created_on>
         <sys_id>2520c52c8747011013a20d46dabb35a6</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Elden Ring Open Source API Call (WPN)</sys_name>
         <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
         <sys_policy/>
         <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
         <sys_update_name>sys_rest_message_2520c52c8747011013a20d46dabb35a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-20 16:54:36</sys_updated_on>
+        <sys_updated_on>2022-04-20 17:34:06</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>
