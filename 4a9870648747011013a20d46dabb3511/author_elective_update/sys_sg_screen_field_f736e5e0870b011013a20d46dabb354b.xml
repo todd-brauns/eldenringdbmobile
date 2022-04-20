@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>id</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Details">2b36e5e0870b011013a20d46dabb3507</screen>
+        <screen_data_item_table>x_804631_elden_r_0_eldenringdb</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:35:06</sys_created_on>
+        <sys_id>f736e5e0870b011013a20d46dabb354b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>id</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f736e5e0870b011013a20d46dabb354b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:35:06</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</application>
+        <file_path/>
+        <instance_id>b9a56543db8589105749cac505961906</instance_id>
+        <instance_name>dev122068</instance_name>
+        <name>sys_sg_screen_field_f736e5e0870b011013a20d46dabb354b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>id</data_item_field_name><field_name/><hidden>false</hidden><order>50</order><record_id_field/><screen display_value="Details">2b36e5e0870b011013a20d46dabb3507</screen><screen_data_item_table>x_804631_elden_r_0_eldenringdb</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 19:35:06</sys_created_on><sys_id>f736e5e0870b011013a20d46dabb354b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>id</sys_name><sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package><sys_policy/><sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope><sys_update_name>sys_sg_screen_field_f736e5e0870b011013a20d46dabb354b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 19:35:06</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>1630917085</payload_hash>
+        <record_name>id</record_name>
+        <reverted_from/>
+        <source>6e8889e08787011013a20d46dabb35d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:35:08</sys_created_on>
+        <sys_id>104629e0870b011013a20d46dabb3579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1804878a9850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:35:08</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>984629e0b20b0110f76c59669e28d778</update_guid>
+        <update_guid_history>984629e0b20b0110f76c59669e28d778:1630917085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 20:01:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>028a1185ef524456846f7724b94645c4</sys_id>
+        <sys_metadata>f736e5e0870b011013a20d46dabb354b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>id</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_scope_delete display_value="">025a1e89eb7b42a89645bde719531590</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_f736e5e0870b011013a20d46dabb354b</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_f736e5e0870b011013a20d46dabb354b">104629e0870b011013a20d46dabb3579</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 20:01:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

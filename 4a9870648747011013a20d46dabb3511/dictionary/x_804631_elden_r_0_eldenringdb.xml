@@ -5,10 +5,10 @@
         <element label="defence" max_length="40" name="defence" type="string"/>
         <element label="description" max_length="1000" name="description" type="string"/>
         <element label="id" max_length="40" name="id" type="string"/>
-        <element label="image" max_length="1024" name="image" type="url"/>
+        <element label="Image" max_length="1024" name="image" type="user_image"/>
         <element label="name" max_length="40" name="name" type="string"/>
         <element label="requiredAttributes" max_length="40" name="requiredattributes" type="string"/>
         <element label="scalesWith" max_length="40" name="scaleswith" type="string"/>
-        <element label="weight" max_length="40" name="weight" type="string"/>
+        <element display="true" label="weight" max_length="40" name="weight" type="string"/>
     </element>
 </database>
