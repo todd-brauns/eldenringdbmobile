@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EldenRingDB" max_length="40" name="x_804631_elden_r_0_eldenringdb" type="collection">
+        <element label="attack" max_length="40" name="attack" type="string"/>
+        <element label="category" max_length="40" name="category" type="string"/>
+        <element label="defence" max_length="40" name="defence" type="string"/>
+        <element label="description" max_length="1000" name="description" type="string"/>
+        <element label="id" max_length="40" name="id" type="string"/>
+        <element label="image" max_length="1024" name="image" type="url"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="requiredAttributes" max_length="40" name="requiredattributes" type="string"/>
+        <element label="scalesWith" max_length="40" name="scaleswith" type="string"/>
+        <element label="weight" max_length="40" name="weight" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>From https://www.reddit.com/r/Python/comments/thl39l/elden_ring_open_source_api/, and https://docs.eldenring.fanapis.com/</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Elden Ring Open Source API import</name>
+        <record_id>ff1978648747011013a20d46dabb357a</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:17:57</sys_created_on>
+        <sys_id>fb1978648747011013a20d46dabb3579</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Elden Ring Open Source API import</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_fb1978648747011013a20d46dabb3579</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:17:57</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</application>
+        <file_path/>
+        <instance_id>b9a56543db8589105749cac505961906</instance_id>
+        <instance_name>dev122068</instance_name>
+        <name>sn_ihub_integration_instance_fb1978648747011013a20d46dabb3579</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>From https://www.reddit.com/r/Python/comments/thl39l/elden_ring_open_source_api/, and https://docs.eldenring.fanapis.com/</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Elden Ring Open Source API import</name><record_id>ff1978648747011013a20d46dabb357a</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 16:17:57</sys_created_on><sys_id>fb1978648747011013a20d46dabb3579</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Elden Ring Open Source API import</sys_name><sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package><sys_policy/><sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope><sys_update_name>sn_ihub_integration_instance_fb1978648747011013a20d46dabb3579</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 16:17:57</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>511339641</payload_hash>
+        <record_name>Elden Ring Open Source API import</record_name>
+        <reverted_from/>
+        <source>8a9870648747011013a20d46dabb3513</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:17:57</sys_created_on>
+        <sys_id>731978648747011013a20d46dabb3583</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18047c421e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:17:57</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>bb197864944701106f44646371042882</update_guid>
+        <update_guid_history>bb197864944701106f44646371042882:511339641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Elden Ring Open Source API import">b479b0648747011013a20d46dabb3532</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:19:23</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>3bf87fd7a7c14a74b3c60e81144dcae4</sys_id>
+        <sys_metadata>fb1978648747011013a20d46dabb3579</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Elden Ring Open Source API import</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_scope_delete display_value="">025a1e89eb7b42a89645bde719531590</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_fb1978648747011013a20d46dabb3579</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_fb1978648747011013a20d46dabb3579">731978648747011013a20d46dabb3583</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:19:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

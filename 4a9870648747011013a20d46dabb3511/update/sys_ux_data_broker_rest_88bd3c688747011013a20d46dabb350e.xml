@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_rest">
+    <sys_ux_data_broker_rest action="INSERT_OR_UPDATE">
+        <api_name>x_804631_elden_r_0.Elden Ring Open Source API pull</api_name>
+        <api_url>https://eldenring.fanapis.com/api/</api_url>
+        <description>https://www.reddit.com/r/Python/comments/thl39l/elden_ring_open_source_api/ </description>
+        <http_method>GET</http_method>
+        <mutates_server_data>true</mutates_server_data>
+        <name>Elden Ring Open Source API pull</name>
+        <output_schema/>
+        <parameters/>
+        <private>false</private>
+        <props/>
+        <request_body/>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_data_broker_rest</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:39:35</sys_created_on>
+        <sys_id>88bd3c688747011013a20d46dabb350e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Elden Ring Open Source API pull</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_ux_data_broker_rest_88bd3c688747011013a20d46dabb350e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:39:35</sys_updated_on>
+    </sys_ux_data_broker_rest>
+    <sys_translated_text action="delete_multiple" query="documentkey=88bd3c688747011013a20d46dabb350e"/>
+</record_update>

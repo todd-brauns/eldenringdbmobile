@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>EldenRingDBI</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_804631_elden_r_0_eldenringdbi</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">b4e540f121120110a866589604c20d1a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:45:30</sys_created_on>
+        <sys_id>536ff4a88747011013a20d46dabb350e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Elden R 0 Eldenringdbi</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_db_object_536ff4a88747011013a20d46dabb350e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:45:30</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</application>
+        <file_path/>
+        <instance_id>b9a56543db8589105749cac505961906</instance_id>
+        <instance_name>dev122068</instance_name>
+        <name>sys_db_object_536ff4a88747011013a20d46dabb350e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>EldenRingDBI</label><live_feed_enabled>false</live_feed_enabled><name>x_804631_elden_r_0_eldenringdbi</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">b4e540f121120110a866589604c20d1a</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 16:45:30</sys_created_on><sys_id>536ff4a88747011013a20d46dabb350e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Elden R 0 Eldenringdbi</sys_name><sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package><sys_policy/><sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope><sys_update_name>sys_db_object_536ff4a88747011013a20d46dabb350e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 16:45:30</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2114560781</payload_hash>
+        <record_name>EldenRingDBI</record_name>
+        <reverted_from/>
+        <source>8a9870648747011013a20d46dabb3513</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:45:30</sys_created_on>
+        <sys_id>1b6f78e88747011013a20d46dabb35ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18047dd5b1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:45:30</sys_updated_on>
+        <type>Table</type>
+        <update_guid>936f78e81c470110c165e9e3d56c24ba</update_guid>
+        <update_guid_history>936f78e81c470110c165e9e3d56c24ba:2114560781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 16:47:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0882c4f6ca5d47a9835eadeff18e9311</sys_id>
+        <sys_metadata>536ff4a88747011013a20d46dabb350e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Elden R 0 Eldenringdbi</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_scope_delete display_value="">025a1e89eb7b42a89645bde719531590</sys_scope_delete>
+        <sys_update_name>sys_db_object_536ff4a88747011013a20d46dabb350e</sys_update_name>
+        <sys_update_version display_value="sys_db_object_536ff4a88747011013a20d46dabb350e">1b6f78e88747011013a20d46dabb35ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 16:47:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
