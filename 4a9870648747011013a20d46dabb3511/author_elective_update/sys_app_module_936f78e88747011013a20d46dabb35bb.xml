@@ -65,7 +65,7 @@
         <update_guid_history>5b6f78e81c4701106a530ce27f6475bc:-1770468853</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="EldenRingDBI">c4efb02c8747011013a20d46dabb3582</sys_audit_delete>
+        <sys_audit_delete display_value="">c4efb02c8747011013a20d46dabb3582</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-20 16:47:28</sys_created_on>
