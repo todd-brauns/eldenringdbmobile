@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>image-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:35:05</sys_created_on>
+        <sys_id>db36a5e0870b011013a20d46dabb3585</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image-FieldValue</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_db36a5e0870b011013a20d46dabb3585</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:35:05</sys_updated_on>
+        <view_config display_value="Weapons List Screen View Config">9b36a5e0870b011013a20d46dabb3584</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</application>
+        <file_path/>
+        <instance_id>5ca960da1bd54d10c8432f8dee4bcbd1</instance_id>
+        <instance_name>dev122398</instance_name>
+        <name>sys_sg_view_config_element_db36a5e0870b011013a20d46dabb3585</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>image-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:35:05</sys_created_on>
+        <sys_id>db36a5e0870b011013a20d46dabb3585</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image-FieldValue</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_db36a5e0870b011013a20d46dabb3585</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:35:05</sys_updated_on>
+        <view_config display_value="Weapons List Screen View Config">9b36a5e0870b011013a20d46dabb3584</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>]]></payload>
+        <payload_hash>-2118820163</payload_hash>
+        <record_name>image-FieldValue</record_name>
+        <reverted_from/>
+        <source>7d47f57087034110023afcc7cebb357d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-21 15:28:12</sys_created_on>
+        <sys_id>e8573d7087034110023afcc7cebb350f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1804cbcf0fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-21 15:28:12</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>a8573d7064034110a0171c2b2047b40f</update_guid>
+        <update_guid_history>a8573d7064034110a0171c2b2047b40f:-2118820163</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-22 17:29:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>488d64be911e4960b3fefa721f51b0d9</sys_id>
+        <sys_metadata>db36a5e0870b011013a20d46dabb3585</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image-FieldValue</sys_name>
+        <sys_package display_value="Elden Ring DB" source="x_804631_elden_r_0">4a9870648747011013a20d46dabb3511</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Elden Ring DB">4a9870648747011013a20d46dabb3511</sys_scope>
+        <sys_scope_delete display_value="">025a1e89eb7b42a89645bde719531590</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_db36a5e0870b011013a20d46dabb3585</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_db36a5e0870b011013a20d46dabb3585">e8573d7087034110023afcc7cebb350f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-22 17:29:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
